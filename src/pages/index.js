@@ -1,4 +1,3 @@
-Copysrc/pages/index.js: copy code to clipboard
 import React from "react"
 import { Link } from "gatsby"
 import Header from "../components/header"
